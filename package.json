@@ -1,0 +1,22 @@
+{
+  "name": "competitionform",
+  "version": "0.0.15",
+  "description": null,
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "yup": "0.23.0",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "formik": "0.10.4"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
